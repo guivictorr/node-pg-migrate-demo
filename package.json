@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "node-pg-migrate-demo",
   "private": true,
   "scripts": {
     "build": "turbo build",
